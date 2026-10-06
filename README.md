@@ -6,4 +6,4 @@ Installers for **SIQ-Browser**, the secure exam browser for SelectIQ.
 
 From v1.0.6, SIQ-Browser updates itself: installed copies download new versions from this page in the background and install them when the app closes. You only need to download it once.
 
-Windows 10/11. 
+Windows 10/11
